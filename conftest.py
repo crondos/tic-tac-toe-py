@@ -50,6 +50,4 @@ X_WINS_OUTCOME = {'message': 'X WINS!', 'reason': 'THREE_IN_A_ROW', 'winner': {
 #def tie_game_turns():
 #    return ...
 
-$ sudo port install git
-
 
